@@ -1,1 +1,28 @@
-/* ...crickets... */
+.title {
+    text-align: center;
+    font-size: 24px;
+    margin: 0px;
+    padding:0px;
+    }
+    
+    .subtitle{
+        text-align: center;
+        font-size: 20px;
+        padding: 0px;
+        margin: 0px;
+    }
+    
+    .content {
+        font-family: comic sans ms;
+        font-size: 12px;
+    }
+    
+    .emph {
+        font-style: italic;
+    }
+    /* I wasnt sure what size the font is
+    so I went with approximate proportions...
+    hope that's ok! */
+    
+    /* based on the solutions, I don't need to remove padding
+    or margin but on codepen it resembles this more with it removed*/
